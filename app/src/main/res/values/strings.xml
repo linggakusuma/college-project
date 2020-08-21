@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stikom Poltek</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="enter_your_nrp">Enter your nrp</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="profile">Profile</string>
+    <string name="e_learning">E-Learning</string>
+    <string name="payment">Payment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="welcome_back_ncheck_your_schedule_today">Welcome Back,\nCheck your Schedule Today</string>
+    <string name="yeay_today_is_free">Yeay, today is free!</string>
+</resources>
