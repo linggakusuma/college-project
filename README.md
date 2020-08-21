@@ -24,7 +24,7 @@ Libraries Used
   * [Fragment][34] - A basic unit of composable UI.
   * [Layout][35] - Lay out widgets using different algorithms.
 * Third party
-  * [Picasso][90] for image loading
+  * [Glide][90] for image loading
   * [RxJava/RxKotlin][91] for managing background threads with simplified code and reducing needs for callbacks
   * [Dagger 2][92] for Dependency Injection
   * [Retrofit][93] for Networking
@@ -45,7 +45,27 @@ Libraries Used
 [31]: https://developer.android.com/training/animation/
 [34]: https://developer.android.com/guide/components/fragments
 [35]: https://developer.android.com/guide/topics/ui/declaring-layout
-[90]: https://square.github.io/picasso/
+[90]: https://bumptech.github.io/glide/
 [91]: https://github.com/ReactiveX/RxKotlin
 [92]: https://github.com/google/dagger
 [93]: https://square.github.io/retrofit/
+
+License
+-------
+
+Copyright 2018 Google, Inc.
+
+Licensed to the Apache Software Foundation (ASF) under one or more contributor
+license agreements.  See the NOTICE file distributed with this work for
+additional information regarding copyright ownership.  The ASF licenses this
+file to you under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License.  You may obtain a copy of
+the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
+License for the specific language governing permissions and limitations under
+the License.
