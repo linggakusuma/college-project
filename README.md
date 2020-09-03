@@ -18,7 +18,6 @@ Libraries Used
   * [Room][16] - Access your app's SQLite database with in-app objects and compile-time checks.
   * [ViewModel][17] - Store UI-related data that isn't destroyed on app rotations. Easily schedule
      asynchronous tasks for optimal execution.
-  * [WorkManager][18] - Manage your Android background jobs.
 * [UI][30] - Details on why and how to use UI Components in your apps - together or separate
   * [Animations & Transitions][31] - Move widgets and transition between screens.
   * [Fragment][34] - A basic unit of composable UI.
@@ -28,6 +27,8 @@ Libraries Used
   * [RxJava/RxKotlin][91] for managing background threads with simplified code and reducing needs for callbacks
   * [Dagger 2][92] for Dependency Injection
   * [Retrofit][93] for Networking
+  * [MotionLayout][94] for manage motion and widget animation.
+  * [Coroutine Flow][95] for asynchronous process and reduce callback.
 
 [0]: https://developer.android.com/jetpack/components
 [1]: https://developer.android.com/topic/libraries/support-library/packages#v7-appcompat
@@ -40,7 +41,6 @@ Libraries Used
 [14]: https://developer.android.com/topic/libraries/architecture/navigation/
 [16]: https://developer.android.com/topic/libraries/architecture/room
 [17]: https://developer.android.com/topic/libraries/architecture/viewmodel
-[18]: https://developer.android.com/topic/libraries/architecture/workmanager
 [30]: https://developer.android.com/guide/topics/ui
 [31]: https://developer.android.com/training/animation/
 [34]: https://developer.android.com/guide/components/fragments
@@ -49,11 +49,13 @@ Libraries Used
 [91]: https://github.com/ReactiveX/RxKotlin
 [92]: https://github.com/google/dagger
 [93]: https://square.github.io/retrofit/
+[94]: https://developer.android.com/training/constraint-layout/motionlayout
+[95]: https://kotlinlang.org/docs/reference/coroutines/flow.html
 
 License
 -------
 
-Copyright 2018 Google, Inc.
+Copyright 2019 Google, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
